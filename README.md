@@ -1,19 +1,14 @@
-# :earth_americas: GDP dashboard template
+# Pulp Market Data Dashboard
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A Streamlit dashboard for analyzing pulp market price data with trend and seasonality analysis.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+## Features
+- Price trends visualization
+- Statistical analysis
+- Correlation analysis
+- Time series decomposition
+- Bilingual support (Chinese/English)
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Installation
+```bash
+pip install -r requirements.txt
